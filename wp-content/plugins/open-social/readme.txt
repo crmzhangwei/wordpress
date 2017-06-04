@@ -3,9 +3,8 @@
 Contributors: playes
 Donate link: https://www.xiaomac.com/201311150.html
 Tags: china, afly, social, login, connect, qq, sina, weibo, baidu, google, live, douban, renren, kaixin001, openid, xiaomi, wechat, QQ登陆, 新浪微博, 百度, 谷歌, 豆瓣, 人人网, 开心网, 登录, 连接, 注册, 分享, 小米, 微信
-Requires at least: 3.0
-Tested up to: 4.7
-Stable tag: 1.6.4
+Tested up to: 4.7.5
+Stable tag: 1.6.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,7 +30,7 @@ Login or Share with social networks: QQ, WeiBo, Baidu, Google, Microsoft, DouBan
 
 ### 版本说明 ###
 
-* 免费版 1.6.4，已停止更新
+* 免费版 1.6.6，已停止更新
 * 付费版￥200，购买和支持，[请联系我](https://www.xiaomac.com/201311150.html)！
 * 升级时直接覆盖原目录，会自动沿用旧版配置
 
@@ -83,6 +82,12 @@ Login or Share with social networks: QQ, WeiBo, Baidu, Google, Microsoft, DouBan
 6. Comment Form
 
 == Changelog ==
+
+= 1.6.6 =
+* 修复阿里云误报木马的问题
+
+= 1.6.5 =
+* 修正登录和头像和脚本的HTTPS问题
 
 = 1.6.4 =
 * 更新QQ登陆：去掉多余的腾讯微博的参数

@@ -16,8 +16,6 @@
                 <?php the_post_thumbnail('full'); ?>
 
 
-    <?php } else { ?>
-    <img src="<?php echo esc_url( get_template_directory_uri() ) ?>/img/default-image.jpg" alt="<?php the_title_attribute(); ?>" />
     <?php } ?>
 
     <header class="entry-header padded">
